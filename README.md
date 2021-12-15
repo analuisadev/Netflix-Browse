@@ -1,4 +1,4 @@
-# 🚀 Netflix Browse's Challenge 🚀
+# 🚀 Netflix Browse Challenge 🚀
 
 ![Screenshot_2](https://user-images.githubusercontent.com/71856519/146252321-c6cb7c51-c689-4acc-9f21-bf0cdfdb0768.png)
 
